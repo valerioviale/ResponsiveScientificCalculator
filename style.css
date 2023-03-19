@@ -124,8 +124,7 @@
         .LeftKeypadRow1 div:hover,.LeftKeypadRow .NormalSignBtn:hover{
             background: #ffffff;
             color: #000000;
-            padding: 8px 17px;
-            margin:1px;
+            
         }
         .LeftKeypadRow .EqualKey{
             width: var(--equal-key-button-width);
@@ -152,7 +151,6 @@
             user-select: none;
         }
         .RightKeypadRow div:hover{
-            transform: scale(1);
             color: #000000;
             background-color: #ffffff;
         }
