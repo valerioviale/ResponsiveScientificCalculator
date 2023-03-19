@@ -143,7 +143,7 @@ DevideButton.addEventListener("click", ()=>{
     Screen1.innerHTML = Screen1Value; 
 })
 MultipicationButton.addEventListener("click", ()=>{
-    Screen1Value = Screen1Value + "X";
+    Screen1Value = Screen1Value + "*";
     Expression = Expression + "*";
     Screen1.innerHTML = Screen1Value;
 })
