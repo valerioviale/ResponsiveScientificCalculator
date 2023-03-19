@@ -174,7 +174,7 @@ PowerButton.addEventListener("click",()=>{
 })
 RootButton.addEventListener("click", ()=>{
     Screen1Value = Screen1Value + "√(";
-    Expression = Expression + "Math.sqrt(";
+    Expression = Expression + "Math.sqrt("; 
     Screen1.innerHTML = Screen1Value;
 })
 SquereButton.addEventListener("click", ()=>{
