@@ -6,6 +6,9 @@ You can find the calculator here:
 https://valerioviale.github.io/ResponsiveScientificCalculator/
 
 
+<img width="948" alt="Screenshot 2024-03-01 at 14 13 59" src="https://github.com/valerioviale/ResponsiveScientificCalculator/assets/34212301/4afa2e3c-6f2a-42f3-9b36-135446334425">
+
+
 
 This is a JavaScript code for a basic calculator application. The calculator has various buttons for arithmetic operations, special functions, and other operations.
 
